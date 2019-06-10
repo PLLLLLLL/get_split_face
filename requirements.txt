@@ -1,0 +1,13 @@
+python3
+mxnet
+
+
+cmake
+boost
+dlib
+face_recognition
+scikit-learn
+pillow
+opencv-python
+把报错的from itertools import izip注释掉，下面加一行试试看
+izip = zip
